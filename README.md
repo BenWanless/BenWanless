@@ -1,19 +1,17 @@
-<h1 align="center">Hi There, I’m Ben ✌️</h1>
+# Hi There, I’m Ben ✌️
 
-<h2 align="center">I’m a Mechanical Engineer turned Front-End Developer<h2>
-  <ul> 
-<li>👨‍💻I'm currently working @BrainStation as Teaching Assistant
-<li>🌱 I'm currently learning Material UI
-<li>🥅 2022 Goals: Contribute to my first open source project
-<li>📫 How to reach me bwanless@hotmail.ca
-<ul>
+I’m a Mechanical Engineer turned Front-End Developer, and im currently working at BrainStation as a Teaching assistant.  
+- 🌱 I'm currently learning Material UI
+- 🥅 2022 Goals: Contribute to my first open source project
 
-### Connect with me ###
+
+
+## Connect with me ##
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][email]
 <br />
 
-### Languages and Tools:
+## Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -35,3 +33,4 @@
 
 
 [linkedin]: https://www.linkedin.com/in/benwanless/
+[email]: mailto:bwanless@hotmail.ca
